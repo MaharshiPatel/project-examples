@@ -8,6 +8,7 @@
     "registry": "http://10.176.0.60:8081/artifactory/api/npm/helloworld-npm-release/"
   },
   "dependencies": {
+    "express": "^4.17.1",
     "send": "^0.16.2"
   },
   "devDependencies": {
