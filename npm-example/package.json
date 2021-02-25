@@ -4,6 +4,9 @@
   "scripts": {
     "start": "node helloworld"
   },
+  "publishConfig": {
+    "registry": "http://10.176.0.60:8081/artifactory/api/npm/helloworld-npm-dev-local/"
+  },
   "dependencies": {
     "send": "^0.16.2"
   },
