@@ -31,12 +31,12 @@
         <repository>
             <id>central</id>
             <name>maharshi-deb-artifactory-releases</name>
-            <url>http://10.176.0.60:8082/artifactory/libs-snapshot-local</url>
+            <url>http://10.176.0.60:8081/artifactory/libs-snapshot</url>
         </repository>
         <snapshotRepository>
             <id>snapshots</id>
             <name>maharshi-deb-artifactory-snapshots</name>
-            <url>http://10.176.0.60:8082/artifactory/libs-snapshot-local</url>
+            <url>http://10.176.0.60:8081/artifactory/libs-snapshot</url>
         </snapshotRepository>
     </distributionManagement>
 
