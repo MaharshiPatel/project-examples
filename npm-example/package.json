@@ -5,10 +5,11 @@
     "start": "node helloworld"
   },
   "publishConfig": {
-    "registry": "http://10.176.0.60:8081/artifactory/api/npm/helloworld-npm-release/"
+    "registry": "http://10.176.0.94:8081/artifactory/api/npm/helloworld-npm-release/"
   },
   "dependencies": {
     "express": "^4.17.1",
+    "graphql": "^15.5.0",
     "send": "^0.16.2"
   },
   "devDependencies": {
